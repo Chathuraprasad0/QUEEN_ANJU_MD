@@ -1,4 +1,4 @@
-module.exports = {
+0ppmodule.exports = {
   "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
@@ -11,7 +11,7 @@ module.exports = {
   "AUTO_REPLY": true,
   "AUTO_REACT": true,
   "WELCOME": false,
-  "ANTI_BAD": false,
+  "ANTI_BAD": true,
   "ANTI_BOT": true,
   "ANTI_LINK": true,
   "ALLWAYS_ONLINE": true,
@@ -21,7 +21,7 @@ module.exports = {
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
-  "AUTO_NEWS": false,
+  "AUTO_NEWS": true,
   "OWNER_REACT": true,
   "EMOJI": "✅"
 };
