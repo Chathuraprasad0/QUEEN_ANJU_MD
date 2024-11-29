@@ -17,7 +17,7 @@
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "CP OWNER X",
+  "OWNER_NAME": "CP OWNER [CHATHURA]",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
